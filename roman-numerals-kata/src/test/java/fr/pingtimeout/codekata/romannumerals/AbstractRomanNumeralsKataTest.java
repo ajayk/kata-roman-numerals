@@ -1,4 +1,4 @@
-package fr.pingtimeout.kata.romannumerals;
+package fr.pingtimeout.codekata.romannumerals;
 
 
 import org.junit.Test;
